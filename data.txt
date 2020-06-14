@@ -1,0 +1,5 @@
+regno roll name
+1     34   Rajesh
+2     42   Suman
+3     12   Asha
+4     32   Roopa
